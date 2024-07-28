@@ -425,7 +425,7 @@ const projects = {
       name: "Seven_Shades",
       url: "https://github.com/Sumit-Samadhiya/seven_shades",
       description:
-        "Fullstack Responsive Ecommers Website with react , Django and Restfull APIs and use many technologies",
+        "Fullstack Responsive E-commerce Website using reactJS , Redux, Django and Restfull APIs and use many technologies",
       languages: [
         {
           name: "ReactJS",
@@ -466,8 +466,8 @@ const projects = {
         },
 
         {
-          name: "Chakra UI",
-          iconifyClass: "logos-material-ui",
+          name: "Next.js",
+          iconifyClass: "simple-icons:nextdotjs",
         },
       ],
     },
@@ -492,6 +492,18 @@ const projects = {
         {
           name: "ReactJS",
           iconifyClass: "logos-react",
+        },
+        {
+          name: "Redux",
+          iconifyClass: "logos-redux",
+        },
+        {
+          name: "Next.js",
+          iconifyClass: "simple-icons:nextdotjs",
+        },
+        {
+          name: "Chakra UI",
+          iconifyClass: "simple-icons:chakraui",
         },
       ],
     },
