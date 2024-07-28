@@ -50,7 +50,11 @@ function Contact(props) {
               <SocialMedia />
               <br />
               <br />
-              <a {...styles} className="general-btn" href={blogSection.link}>
+              <a
+                {...styles}
+                className="general-btn"
+                href="https://sumit-samadhiya.github.io/Portfolio/#/home"
+              >
                 See My portfolio
               </a>
             </div>
