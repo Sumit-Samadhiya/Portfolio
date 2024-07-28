@@ -2,7 +2,7 @@
   "private": true,
   "name": "opportfolio",
   "version": "1.2.0",
-  "homepage": "",
+  "homepage": "https://Sumit-Samadhiya.github.io/Portfolio",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "baseui": "^12.2.0",
+    "gh-pages": "^6.1.1",
     "glamor": "^2.20.40",
     "react": "^16.8.0",
     "react-bootstrap": "^2.6.0",

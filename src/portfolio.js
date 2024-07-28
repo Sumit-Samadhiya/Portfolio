@@ -473,7 +473,31 @@ const projects = {
     },
 
     {
-      name: "Cafaous",
+      name: "Portfolio",
+      url: "",
+      description: "(This) A clean and full customizable portfolio template.",
+      languages: [
+        {
+          name: "ReactJS",
+          iconifyClass: "logos-react",
+        },
+      ],
+    },
+    {
+      name: "Carters",
+      url: "https://github.com/Sumit-Samadhiya/Carters",
+      description:
+        "It is a e-commerce shopping website for kids. It is a full responsive and full functionality website using Reactjs,Redux,Next.js and some other technologie",
+      languages: [
+        {
+          name: "ReactJS",
+          iconifyClass: "logos-react",
+        },
+      ],
+    },
+
+    {
+      name: "Cafeous",
       url: "https://sumit-samadhiya.github.io/cafeous/",
       description:
         "It is a full responsive, user friendly and client-side Restaurants Cafe Website.",
@@ -517,28 +541,6 @@ const projects = {
         {
           name: "BootStrap",
           iconifyClass: "logos-bootstrap",
-        },
-      ],
-    },
-    {
-      name: "Portfolio",
-      url: "",
-      description: "(This) A clean and full customizable portfolio template.",
-      languages: [
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
-        },
-      ],
-    },
-    {
-      name: "Carters",
-      url: "https://github.com/Sumit-Samadhiya/Carters",
-      description: "",
-      languages: [
-        {
-          name: "ReactJS",
-          iconifyClass: "logos-react",
         },
       ],
     },
