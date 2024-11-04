@@ -414,7 +414,7 @@ const contactPageData = {
     subtitle:
       "Here's my journey in tech so far. Take a look at my resume to learn more about my work and skills.",
     link:
-      "https://drive.google.com/file/d/1lmlZ2eWnp6_-60X2pXdJc_dAfZ9uN7Np/view?usp=sharing",
+      "https://drive.google.com/file/d/1m1qy7BLaHZhJ_9smFhW4WV7kqwph9Uds/view?usp=sharing",
     avatar_image_path: "blogs_image.svg",
   },
 };
