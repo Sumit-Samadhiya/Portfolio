@@ -16,15 +16,15 @@ const greeting = {
   full_name: "Sumit Samadhiya",
   subTitle: "Full Stack Developer, Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/18NTSA1Ma0OVlpM6lwSz3cejYD9R8gqg7/view",
-  mail: "mailto:sumitsamadhiya37@gmail.com",
+    "https://drive.google.com/file/d/1m1qy7BLaHZhJ_9smFhW4WV7kqwph9Uds/view?usp=sharing",
+  mail: "mailto:sumitsamadhiya877@gmail.com",
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/Sumit-Samadhiya",
   linkedin: "https://www.linkedin.com/in/sumit-samadhiya-0613b725a/",
-  gmail: "sumitsamadhiya37@gmail.com",
+  gmail: "sumitsamadhiya877@gmail.com",
   gitlab: " ",
   facebook: " ",
   twitter: "",
